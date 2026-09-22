@@ -63,7 +63,7 @@ The dataset utilized in this project is the authentic **Bank Marketing dataset**
 ## 5. Project Directory Structure
 
 ```text
-MohanKumarM_BankCampaignAnalytics/
+Bank-Campaign-Analytics/
 │
 ├── MohanKumarM_BankCampaignAnalytics.ipynb       # Mandatory submission: fully executed 17-section notebook
 ├── MohanKumarM_ProjectReport.docx               # Mandatory submission: comprehensive 24-chapter report with dashboard screenshots
