@@ -124,7 +124,7 @@ Bank-Campaign-Analytics/
 ### Step 1: Clone or Navigate to the Project Directory
 Open your command terminal (PowerShell, Command Prompt, or Bash) and navigate to the project directory:
 ```bash
-cd MohanKumarM_BankCampaignAnalytics
+cd Bank-Campaign-Analytics
 ```
 
 ### Step 2: Create and Activate a Virtual Environment
