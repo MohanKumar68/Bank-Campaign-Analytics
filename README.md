@@ -66,7 +66,7 @@ The dataset utilized in this project is the authentic **Bank Marketing dataset**
 MohanKumarM_BankCampaignAnalytics/
 │
 ├── MohanKumarM_BankCampaignAnalytics.ipynb       # Mandatory submission: fully executed 17-section notebook
-├── MohanKumarM_ProjectReport.docx               # Mandatory submission: comprehensive 23-chapter academic report
+├── MohanKumarM_ProjectReport.docx               # Mandatory submission: comprehensive 24-chapter report with dashboard screenshots
 ├── requirements.txt                              # Mandatory submission: pinned python dependencies
 ├── README.md                                     # Mandatory submission: complete project documentation
 ├── app.py                                        # Optional interactive Streamlit web dashboard
@@ -235,7 +235,7 @@ After every major notebook section, a structured **Quick Understanding** box is 
 
 - [x] Authentic UCI dataset downloaded to `data/bank.csv` (4,521 rows, 17 columns)
 - [x] Fully executed Jupyter Notebook: `MohanKumarM_BankCampaignAnalytics.ipynb` (17 sections, 63 cells, 0 errors)
-- [x] Academic Project Report: `MohanKumarM_ProjectReport.docx` (23 chapters, 14 embedded figures, formatted tables)
+- [x] Academic Project Report: `MohanKumarM_ProjectReport.docx` (24 chapters, 17 embedded figures including real dashboard screenshots, formatted tables)
 - [x] Pinned dependencies file: `requirements.txt`
 - [x] Complete documentation: `README.md`
 - [x] Version control rules: `.gitignore`
